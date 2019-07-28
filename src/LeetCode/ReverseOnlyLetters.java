@@ -1,6 +1,10 @@
 package LeetCode;
 public class ReverseOnlyLetters {
     private static String reverseOnlyLetters(String S) {
+
+        /*
+        Character.isLetter() can be used to check if the char is a letter or not!!!
+         */
         StringBuilder sb = new StringBuilder(S);
         int low = 0;
         int high = sb.length() - 1;
