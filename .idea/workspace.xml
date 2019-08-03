@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="379fe2e4-200f-4337-bf0c-735bb68fd4a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="379fe2e4-200f-4337-bf0c-735bb68fd4a2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,18 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/AddToArrayForm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/BuddyString.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,14 +84,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/ContainsDuplicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            <state relative-caret-position="90">
+              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
               <folding>
                 <element signature="e#143#152#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/PathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -187,6 +182,7 @@
         <option value="$PROJECT_DIR$/src/LeetCode/IntersectionOfArrays.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/ContainsDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/PathSum.java" />
       </list>
     </option>
   </component>
@@ -250,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FizzBuzz">
+  <component name="RunManager" selected="Application.PathSum">
     <configuration name="FindDissapearedNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.FindDissapearedNumber" />
       <module name="Algorithms" />
@@ -303,8 +299,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnsortedSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.UnsortedSubArray" />
+    <configuration name="PathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.PathSum" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -317,19 +313,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UnsortedSubArray" />
       <item itemvalue="Application.FindDissapearedNumber" />
       <item itemvalue="Application.FirstUniqueCharacter" />
       <item itemvalue="Application.IntersectionOfArrays" />
       <item itemvalue="Application.FizzBuzz" />
+      <item itemvalue="Application.PathSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PathSum" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.IntersectionOfArrays" />
         <item itemvalue="Application.FirstUniqueCharacter" />
         <item itemvalue="Application.FindDissapearedNumber" />
-        <item itemvalue="Application.UnsortedSubArray" />
       </list>
     </recent_temporary>
   </component>
@@ -365,18 +361,18 @@
       <workItem from="1564340154785" duration="18000" />
       <workItem from="1564402716591" duration="235000" />
       <workItem from="1564473191973" duration="7066000" />
-      <workItem from="1564670912716" duration="4026000" />
+      <workItem from="1564670912716" duration="6984000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67683000" />
+    <option name="totallyTimeSpent" value="70641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35379645" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35379645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -385,7 +381,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49919224" weight="0.48356164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,7 +390,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3739726" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32876712" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -426,6 +422,12 @@
           <line>45</line>
           <properties />
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/PathSum.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -667,11 +669,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/ContainsDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        <state relative-caret-position="90">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
           <folding>
             <element signature="e#143#152#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/PathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
